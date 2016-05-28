@@ -1,0 +1,16 @@
+{
+  "name": "ng2fb-tutorial",
+  "version": "0.0.1",
+  "author": {
+    "name": "Rachel Willmer/Modified by Anderson Reinkordt",
+    "email": "rachel@willmer.org/son@lincolnix.net"
+  },
+  "homepage": "https://github.com/son1112/ng2fb-tutorial.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/son1112/ng2fb-tutorial.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
